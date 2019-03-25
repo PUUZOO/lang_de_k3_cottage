@@ -1,0 +1,302 @@
+# Translation of Themes - K3 Cottage.de
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-25 19:02+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Language: de\n"
+"Project-Id-Version: k3_cottage_eng\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# GLOBAL
+msgid "READ MORE"
+msgstr "Erfahren Sie mehr"
+
+msgid "MORE"
+msgstr "Erfahren Sie mehr"
+
+msgid "Learn more"
+msgstr "Erfahren Sie mehr"
+
+msgid "Try for free"
+msgstr "Versuchen Sie unsere kostenlose Testversion"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Watch & Learn"
+msgstr "Video-Tutorials"
+
+msgid "SUPPORT & TUTORIALS"
+msgstr "Technischer Support un"
+
+msgid "Tutorials"
+msgstr "Technischer Support un"
+
+msgid "Home"
+msgstr "Startseite"
+
+msgid "Watch"
+msgstr "Video"
+
+msgid "About us"
+msgstr "Über uns"
+
+msgid "ABOUT US"
+msgstr "Über uns"
+
+msgid "3D CAD Software for Log Home & Cabin Design"
+msgstr "3D-CAD-Software für Blockhaus und Profilholzgestaltung"
+
+msgid "Professional 3D CAD / CAM software<br> for log home and cabin design"
+msgstr "3D-CAD-Software für Blockhaus und Profilholzgestaltung"
+
+msgid "Start your free 14-Day trial"
+msgstr "Starten Sie die kostenlose 14-Tage-Testversion"
+
+msgid "Getting Started"
+msgstr "Schnellstart"
+
+# MENU
+msgid "Features"
+msgstr "Vorteile"
+
+msgid "CNC Machines"
+msgstr "CNC Maschinen"
+
+msgid "Rendering"
+msgstr "Rendering"
+
+msgid "Project documentation"
+msgstr "Berichte"
+
+msgid "Customer<br class=\"d-none d-sm-block\"> Projects"
+msgstr "Benutzerprojekte"
+
+msgid "Customer Projects"
+msgstr "Benutzerprojekte"
+
+msgid "SUPPORT<span class=\"c-orange\">&</span>TUTORIALS"
+msgstr "Technischer Support un"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Company"
+msgstr "UNTERNEHMEN"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "System Requirements"
+msgstr "Systemvoraussetzungen"
+
+msgid "Support"
+msgstr "Technischer Support"
+
+msgid "Support and tutorials"
+msgstr "Unterstützung"
+
+msgid "User guide"
+msgstr "Benutzerhandbuch"
+
+msgid "Free trial version"
+msgstr "Testversion"
+
+msgid "Social media"
+msgstr "Soziale Netzwerke"
+
+msgid "Commercial department:"
+msgstr "Handelsabteilung:"
+
+msgid "Tech support:"
+msgstr "Technischer Support:"
+
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+# PAGES
+msgid "Renderings"
+msgstr "Übertragung"
+
+msgid "House in landscape, Video renderings, Section views, Fronts."
+msgstr "Foto-Visualisierung, Video-Erstellung, Schnioe, Fassaden. Erfahren Sie mehr."
+
+msgid "For customers"
+msgstr "Für Kunden"
+
+msgid "Wall elements specification sheet, Log cutout table, Drawings of boards, Material Register, Notches & log ends table, etc."
+msgstr "Tabellen und Pläne für die Holzbalken, Schneiden der Balken und der Breoer, Stücklisten, Plan für die Einkerbungen und Enden der Holzbalken usw. Erfahren Sie mehr."
+
+msgid "For manufacturing"
+msgstr "Für die Produktion"
+
+msgid "Wall assembly charts, Row-by-row assembly instructions, Plans of beams"
+msgstr "Wandmontagetabellen, Montageanleitung pro Reihe, Balkenpläne Erfahren Sie mehr"
+
+msgid "K3-COTTAGE FEATURES"
+msgstr "K3-COTTAGE Hauptvorteile"
+
+msgid "3D design environment"
+msgstr "Erstellen von qualitativ hochwertigen 3D-Bildern des"
+
+msgid "Fully adjustable parameters of log profiles, notches, joints, openings, materials, etc."
+msgstr "Programmeinstellung mit eigenen Materialien."
+
+msgid "Built-in CAD tool"
+msgstr "Projekt"
+
+msgid "Instant calculation of log material consumption"
+msgstr "Vollständige Projekt-dokumentation"
+
+msgid "Perfect software solution that covers the whole range of activities in log house design: <br class=\"d-none d-sm-block\">from planning to production"
+msgstr "Ein einzigarlges Programm, mit dem Sie alle Aufgaben lösen können: von der Entwicklung <br class=\"d-none d-sm-block\">eines Projekts für ein Haus bis zur Übertragung von Informalonen über das Projekt an CNC-Maschinen"
+
+msgid "System of measurement"
+msgstr "System von Maßnahmen"
+
+msgid "K3-Cottage supports multi-language user interface. You May select and set a language (English, Russian) during installation. Using an English-language user interface, you may switch a system of measurement from metric to imperial if necessary."
+msgstr "Das K3-Cooage-Programm unterstützt eine mehrsprachige Benutzeroberfläche. Sie können während der Installalon eine Sprache (Englisch, Deutsch, Russisch) auswählen. Bei Bedarf können Sie das Messsystem mithilfe der englischsprachigen Benutzeroberfläche von einem metrischen zu einem englischen Maßsystem umschalten."
+
+msgid "User-friendly interface and Efficiency"
+msgstr "Freundliche Benutzeroberfläche Leistung / Effizienz"
+
+msgid "Easy from installation to using. K3-Cottage software combines a user-friendly interface with high efficiency and unlimited capabilities, and covers the whole range of activities from planning to production. You create a new building project and get up to 30 types of working drawings, architect and production plans automatically."
+msgstr "Einfach zu installieren und zu bedienen. Das K3-Cooage-Programm ist eine einzigarlge Kombinalon aus benutzerfreundlicher Oberfläche und leistungsstarker Funklonalität. Das Programm löst die gesamte Paleoe von Aufgaben vollständig, vom Entwurf eines Hauses bis zur Übermiolung von Informalonen an CNC-Maschinen. Sie erstellen ein Projekt und erhalten mehr als 30 Arten von Zeichnungen und Produklonsberichten."
+
+msgid "Flexibility"
+msgstr "Programmeinstellung"
+
+msgid "K3-Cottage perfectly adapts to the needs of your company and changing requirements of log houses construction. It can be effectively adjusted: you can specify the length of log workpieces, set the sawcut depth and width, specify the wood species and apply other changes. All these adjustments make your work cost-efficient."
+msgstr "Alle Projekte werden aus echten Materialien erstellt, die in Ihrer Produklon verwendet werden. In K3-Cooage können Sie: Abschnioe beliebiger Größe einstellen; die erforderliche Tiefe der Nuten und die Breite des Schnioes einstellen; Länge des Werkstücks ändern; Zeigen Sie die Holzarten an und bearbeiten Sie eine Vielzahl anderer MaterialeigenschaOen direkt in den Tabellen."
+
+msgid "Quickly changes applying"
+msgstr "Schnelle Änderungen"
+
+msgid "K3-Cottage saves your time and lets you work faster. Changes can be made anytime. This unique feature enables you to apply any changes at any stage of the process without rebuilding the project. The system recalculates the project at the push of a button."
+msgstr "Mit K3-Cooage können Sie schnell und einfach Änderungen am ferlgen Projekt vornehmen. Mit einem vorgeferlgten Projekt kann der Designer: die erforderlichen Kronen entfernen oder hinzufügen; Bewegen Sie die Wände des Hauses, während Sie die Bindung an den Rest der Struktur beibehalten. Ändern Sie das Projektmaterial unter Beibehaltung aller Höhen. Spiegeln und kopieren Sie das gesamte Projekt oder seine einzelnen Elemente."
+
+msgid "Purchasing and Shipping"
+msgstr "Kauf und Lieferung"
+
+msgid "Commercial license works without time limit: full functionality, one-year support and maintenance, free updates during a year. We guarantee a 0-24 hours FREE e-mail technical support from Monday to Friday. You can extend the maintenance period after a year and keep getting updates and support. Different payment options are available: by invoice, credit and debit cards. The software is shipped via an international delivery company. Contact our sales department <a href=\"mailto:sale@k3info\">sale@k3info.ru</a> to learn more about payment options and shipping."
+msgstr "Die lizenzierte Version des Programms hat keine Einschränkungen bezüglich der Nutzungsdauer. Beim Kauf erhalten Sie ein voll ausgestaoetes Programm, ein Jahr technischen Support und kostenlose Updates. Benutzer von lizenzierten Versionen erhalten an Wochentagen ab 9.00 - 18.00 Uhr technische Unterstützung. Sie können den Kauf des Programms mioels Banküberweisung oder Kreditkarte bezahlen. Die Lieferung des Programms an den Empfänger erfolgt durch einen internalonalen Kurierdienst."
+
+msgid "House views"
+msgstr "Ansicht des zukünnigen Hauses"
+
+msgid "Documentation for customers."
+msgstr "Dokumenta„on für Kunden."
+
+msgid "K3-Cottage creates orthogonal projections and 3D views of the house model in real time during the work. Designer is able to export these images and create realistic pictures for customers and advertising using built-in visualizator."
+msgstr "K3-Cooage erstellt während der Arbeit in Echtzeit orthogonale Projeklonen und 3D-Ansichten des Hausmodells. Der Designer kann diese Bilder exporleren und realislsche Bilder für de."
+
+msgid "House floor plans"
+msgstr "Grundrisse des Gebäudes"
+
+msgid "Documentation for customers"
+msgstr "Dokumentation für Kunden"
+
+msgid "K3-Cottage is able to create floor plans on selected height levels and add various elements and notes on request such as: wall axes and distances between them; dimensions and names for doors and windows; room floorspaces and wall areas."
+msgstr "Mit dem K3-Cooage werden automalsch die Grundrisse des Hauses erstellt. Die Achsen der Wände und die Abstände zwischen ihnen angezeigt. Separate Räume werden automalsch zugewiesen und für jeden Raum kann die Bodenfläche, der flache und sichtbare Teil der Wände, das Volumen und der Umfang berechnet werden. Bei den quadralschen Wänden werden Öffnungen unter den Fenstern und Türen berücksichlgt. Auf dem Plan können die Abmessungen und Abmessungen der Öffnungen unter den Fenstern und Türen festgelegt werden."
+
+msgid "Material register"
+msgstr "Stückliste"
+
+msgid "Material Register presents a table of materials used in the project along with the quantity of them, their amount and cost."
+msgstr "Die Materialliste enthält alle Informalonen über den Verbrauch von Stamm- oder Schnioholz, Dichtungen, Bauelementen und anderen Materialien, die für die Herstellung und Montage des entworfenen Hauses erforderlich sind. Der Bericht über den Materialnachweis ist eine Tabelle mit einer Liste der verwendeten Materialien, mit Menge- und Kostenangaben."
+
+msgid "Front views"
+msgstr "Fassaden"
+
+msgid "The Front views report shows the house projections from different sides. It presents the drawings of the facades with distances between axes and height marks."
+msgstr "Der Bericht Fassaden zeigt die Ansichten des Hauses aus verschiedenen Blickwinkeln. Und die Zeichnungen zeigen die Fassaden mit Achsabständen und Höhenmarken."
+
+msgid "Specification sheets"
+msgstr "Spezifika„onen für Wandelemente"
+
+msgid "Documentation for manufacturing."
+msgstr "Dokumente für die Produktion."
+
+msgid "Wall elements specification sheet (table of logs) is the main manufacture document. This sheet contains highly detailed drawings of each log with all the necessary dimensions"
+msgstr "Die Spezifikalon der Wandelemente ist das Hauptdokument der Ferlgung. In dieser Tabelle ist für jeden Balken eine detaillierte Zeichnung mit der Anzeige aller erforderlichen Größen angegeben. Die Stämme werden nach Wänden, nach einzelne Balken oder nach Länge gruppiert und können in einer Zeile der Tabelle zusammengefasst werden. Die Spezifikalon der Wandelemente ergänzt die Tabelle der Enden und Nuten"
+
+msgid "Log cutting tables"
+msgstr "Baumstämme ausschneiden"
+
+msgid "Log Cutting Table represents charts of optimum cutting. The charts are designed to minimize the construction costs and to reduce the number of cutting residues. This report contains the detailed drawings of logs including its unique names, lengths, notches, dowel and other holes, and log end trimming markings as well as the cutting residues list. For each material the system calculates the volume of workpieces and the amount of waste. Also, K3-Cottage is able to create similar report for boards instead of logs."
+msgstr "Schniokarten zeigen, wie die Rohlinge in eine beslmmte Länge zerlegt werden, so dass die Kosten und der gesamte Abfall des verbrauchten Materials minimiert werden. Muster enthalten detaillierte Schniozeichnungen (mit eindeulgen Namen, Längen, Nuten, SlOen, Endmarkierungen, Schnioen usw.) sowie Reste vom Schneiden. Die Stämme, die an den Enden offene Halbschalen haben, sind so angeordnet, dass die Halbschalen eine volle Nut bilden. Die Balken werden nach Material gruppiert. Für jedes Material wird das Volumen der Zuschnioe und der Abfall berechnet. Zuschniokarten von K3-Cooage vervollständigen die Tabelle Gesamtverbrauch der Materialien mit Au-lebern für die Schnioreste."
+
+msgid "Table of openings"
+msgstr "Tabelle der Öffnungen"
+
+msgid "The Table of Openings contains drawings of apertures with specified dimensions and names. Openings are divided into Window openings and Doorways. For each opening the system calculates area and perimeter."
+msgstr "Die Tabelle der Öffnungen enthält Zeichnungen von Öffnungen mit angegebenen Abmessungen und Namen. Öffnungen sind in Fenster- und Türöffnungen unterteilt. Für jede Öffnung berechnet das System die Fläche und den Umfang."
+
+msgid "Roof plans"
+msgstr "Dachpläne"
+
+msgid "Documentation for assembly."
+msgstr "Dokumente für die Produktion."
+
+msgid "Roof plans display axes of walls and distances between them, contours of slopes and height marks. The slope direction, inclination, area and perimeter can be specified."
+msgstr "Die Dachpläne zeigen die Achsen der Wände und die Abstände zwischen ihnen, Konturen von Steigungen und Höhenmarkierungen. Für jede Neigung können Richtung und Neigungswinkel angegeben, und deren Fläche und Umfang berechnet werden."
+
+msgid "Wall charts"
+msgstr "Wandpläne"
+
+msgid "Wall charts serve as the control document both for log manufacture and for house assemblage. K3-Cottage creates individual chart for each wall with construction axes of adjoining walls; the scale of courses; names and lengths of logs; opening, column and beam height marks; and also chains of the necessary dimensions"
+msgstr "Wanddiagramme dienen als Kontrolldokument sowohl für die Herstellung als auch für die Montage. K3-Cooage erstellt für jede Wand ein individuelles Diagramm und zeigt die Konstruklonsachsen angrenzender Wände an. Der Maßstab der Reihen, die Namen und Längen der Baumstämme, die Erhebungen der Öffnungen, Pfeiler und Balken sowie die Reihenfolge der erforderlichen Größen werden festgelegt. Bei Öffnungen können Namen und Abmessungen angegeben werden"
+
+msgid "Plans of courses"
+msgstr "Plans of courses"
+
+msgid "Each plan of courses displays all walls and beam logs for the chosen course. It contains necessary information to control the order of logs allocation: walls contours; wall axes names and distances between them and unique numbers of logs"
+msgstr "Balkenplan - wichlge Montagezeichnung - damit können Sie die Balken in der richlgen Reihenfolge monleren. Auf dem Plan sind jeweils die Balken gekennzeichnet: mit Namen der Wände; die Achse der Wände und der Abstand zwischen ihnen; Abstand der Balken in der Eckverbindung innen und außen; eindeulge Balkennummern; der Abstand zwischen den Balken, in der gleichen Reihe der Namen der Wände"
+
+msgid "Plans of beams"
+msgstr "Pläne für Balken"
+
+msgid "The plan of beams displays axes and contours of walls, axes and contours of beams; distances between walls axes and between axes of each group of beams and distance from an extreme beam to the nearest wall. The program also specifies names of walls and beams."
+msgstr "Der Balkenplan zeigt Achsen und Konturen von Wänden, Achsen und Konturen von Balken. Abstände zwischen den Achsen der Wände und zwischen den Achsen jeder Balkengruppe und der Abstand des en¢erntesten Balkens bis zur nächsten Wand. Das Programm gibt auch Namen von Wänden und Balken an."
+
+msgid "Find documentation, tutorials, downloads, videos, and more resources"
+msgstr "In diesem Bereich finden Sie alle notwendigen Programmdokumentalonen, Schulungsunterlagen und Videos"
+
+msgid "The fundamentals of K3-Cottage."
+msgstr "Überblick über das Programm."
+
+msgid "Explore tutorials, videos, and documentation"
+msgstr "Sehen Sie sich die Schulungsvideos zur Arbeit im Programm an<br>"
+
+msgid "Need help with installation or running the software?"
+msgstr "Benölgen Sie Hilfe beim Installieren oder Ausführen eines Programms?"
+
+msgid "Have questions?<br> Contact us."
+msgstr "Noch Fragen?<br> Kontakleren Sie uns."
+
+msgid "No fees. No credit card. No risk."
+msgstr "Ohne Bezahlung - Kein Risiko."
+
+msgid "Get access to the full version of the latest release of K3-Cottage software for free. Download Free Trial now to see how K3-Cottage can help you boost your productivity and speed your work."
+msgstr "Erhalten Sie Zugriff auf die kostenlose Vollversion. Arbeiten Sie ohne Einschränkung der Funklonalität, schätzen Sie die bequeme Arbeit im Programm."
+
+msgid "GeoS Center LLC (Nizhny Novgorod) ‑ is a Russian developer of computer aided design (CAD/CAM) software. The Center was established in June 1994 in Nizhny Novgorod and employs the best specialists in the field of 3D simulation software. GeoS Center has its head office in Nizhny Novgorod, Russia."
+msgstr "GeoS CAD Development Center LLC (Russland, Nischni Nowgorod) ist ein russischer Softwareentwickler im Bereich Computer Aided Design (CAD / CAM). Das Entwicklungsteam arbeitet seit Juni 1994 mit SoOware. Die Hauptentwicklung des Unternehmens ist ein interaklver Komplex von 3D-Modellierungsprogrammen \"K3\", auf deren Grundlage eine Reihe branchenspezifischer Anwendungen erstellt werden."
+
+msgid "The company's main development is the K3 Interactive 3D-Simulation Program Suite, which is used as a basis for developing various industry-specific applications. K3 Systems are successfully used by over 1,500 companies in Russia and the CIS in various industries."
+msgstr "Auf dem K3-System entwickelte SoOwarelösungen werden von mehr als 1.500 Unternehmen in Russland und der Welt erfolgreich eingesetzt."
+
+msgid "Development and supply of geometrical software"
+msgstr "Entwicklung und Lieferung von geometrischer Software"
+
+msgid "Development of software tools for creating user applications"
+msgstr "Entwicklung von SoOware-Tools zum Erstellen von benutzerdefinierten Anwendungen"
+
+msgid "Development and implementation of industry-specific user applications"
+msgstr "Entwicklung und Implemenlerung von kundenspezifischen Anwendungen, einschließlich der Industrie"
