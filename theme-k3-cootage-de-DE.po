@@ -1,7 +1,7 @@
 # Translation of Themes - K3 Cottage.de
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-03-25 19:02+0300\n"
+"PO-Revision-Date: 2019-03-26 11:51+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -106,6 +106,9 @@ msgid "User guide"
 msgstr "Benutzerhandbuch"
 
 msgid "Free trial version"
+msgstr "Testversion"
+
+msgid "Free Trial Version"
 msgstr "Testversion"
 
 msgid "Social media"
