@@ -78,6 +78,9 @@ msgstr "Rendering"
 msgid "Project documentation"
 msgstr "Berichte"
 
+msgid "Project Documentation"
+msgstr "Project Dokumentation"
+
 msgid "Customer<br class=\"d-none d-sm-block\"> Projects"
 msgstr "Benutzerprojekte"
 
@@ -158,7 +161,7 @@ msgid "Built-in CAD tool"
 msgstr "Schnelle Änderungen am Projekt"
 
 msgid "Instant calculation of log material consumption"
-msgstr "Vollständige Projekt-dokumentation"
+msgstr "Vollständige Projektdokumentation"
 
 msgid "Perfect software solution that covers the whole range of activities in log house design: <br class=\"d-none d-sm-block\">from planning to production"
 msgstr "Ein einzigartiges Programm, mit dem Sie alle Aufgaben lösen können: von der Entwicklung eines Projekts für ein Haus bis zur Übertragung von Informationen über das Projekt an CNC-Maschinen"
@@ -167,13 +170,13 @@ msgid "System of measurement"
 msgstr "System von Maßnahmen"
 
 msgid "K3-Cottage supports multi-language user interface. You May select and set a language (English, Russian) during installation. Using an English-language user interface, you may switch a system of measurement from metric to imperial if necessary."
-msgstr "Das K3-Cottage-Programm un-terstützt eine mehrsprachige Benutzeroberfläche. Sie können während der Installation eine Sprache (Englisch, Deutsch, Rus-sisch) auswählen. Bei Bedarf können Sie das Messsystem mithilfe der englischsprachigen Benutzeroberfläche von einem metrischen zu einem englischen Maßsystem umschalten."
+msgstr "Das K3-Cottage-Programm unterstützt eine mehrsprachige Benutzeroberfläche. Sie können während der Installation eine Sprache (Englisch, Deutsch, Russisch) auswählen. Bei Bedarf können Sie das Messsystem mithilfe der englischsprachigen Benutzeroberfläche von einem metrischen zu einem englischen Maßsystem umschalten."
 
 msgid "User-friendly interface and Efficiency"
 msgstr "Freundliche Benutzeroberfläche Leistung / Effizienz"
 
 msgid "Easy from installation to using. K3-Cottage software combines a user-friendly interface with high efficiency and unlimited capabilities, and covers the whole range of activities from planning to production. You create a new building project and get up to 30 types of working drawings, architect and production plans automatically."
-msgstr "Einfach zu installieren und zu bedienen. Das K3-Cottage-Pro-gramm ist eine einzigartige Kombination aus benutzer-freundlicher Oberfläche und leistungsstarker Funktionalität. Das Programm löst die gesamte Palette von Aufgaben vollstän-dig, vom Entwurf eines Hauses bis zur Übermittlung von Infor-mationen an CNC-Maschinen. Sie erstellen ein Projekt und erhalten mehr als 30 Arten von Zeichnungen und Produktionsberichten."
+msgstr "Einfach zu installieren und zu bedienen. Das K3-Cottage Programm ist eine einzigartige Kombination aus benutzerfreundlicher Oberfläche und leistungsstarker Funktionalität. Das Programm löst die gesamte Palette von Aufgaben vollständig, vom Entwurf eines Hauses bis zur Übermittlung von Infor-mationen an CNC-Maschinen. Sie erstellen ein Projekt und erhalten mehr als 30 Arten von Zeichnungen und Produktionsberichten."
 
 msgid "Flexibility"
 msgstr "Programmeinstellung"
@@ -194,7 +197,7 @@ msgid "Commercial license works without time limit: full functionality, one-year
 msgstr "Die lizenzierte Version des Programms hat keine Einschränkungen bezüglich der Nutzungsdauer. Beim Kauf erhalten Sie ein voll ausgestattetes Programm, ein Jahr technischen Support und kostenlose Updates. Benutzer von lizenzierten Versionen erhalten an Wochentagen ab 9.00 - 18.00 Uhr technische Unterstützung. Sie können den Kauf des Programms mittels Banküberweisung oder Kreditkarte bezahlen. Die Lieferung des Programms an den Empfänger erfolgt durch einen internationalen Kurierdienst."
 
 msgid "House views"
-msgstr "Ansicht des zukünnigen Hauses"
+msgstr "Ansicht des zukünftigen Hauses"
 
 msgid "Documentation for customers."
 msgstr "Dokumentation für Kunden."
@@ -209,7 +212,7 @@ msgid "Documentation for customers"
 msgstr "Dokumentation für Kunden"
 
 msgid "K3-Cottage is able to create floor plans on selected height levels and add various elements and notes on request such as: wall axes and distances between them; dimensions and names for doors and windows; room floorspaces and wall areas."
-msgstr "Mit dem K3-Cottage werden automatisch die Grundrisse des Hauses erstellt. Die Achsen der Wände und die Abstände zwischen ihnen angezeigt. Separate Räume werden automatisch zugewiesen und für jeden Raum kann die Bodenfläche, der flache und sichtbare Teil der Wände, das Volumen und der Umfang berechnet werden. Bei den quadratischen Wänden werden Öffnungen unter den Fenstern und Türen berücksichtigt. Auf dem Plan können die Abmessungen und Abmessungen der Öffnungen unter den Fenstern und Türen festgelegt werden."
+msgstr "Mit dem K3-Cottage werden automatisch die Grundrisse des Hauses erstellt. Die Achsen der Wände und die Abstände zwischen ihnen angezeigt. Separate Räume werden automatisch zugewiesen und für jeden Raum kann die Bodenfläche, der flache und sichtbare Teil der Wände, das Volumen und der Umfang berechnet werden. Bei den quadratischen Wänden werden Öffnungen unter den Fenstern und Türen berücksichtigt. Auf dem Plan können die Abmessungen und Abmessungen der Öffnungen für die Fenstern und Türen festgelegt werden."
 
 msgid "Material register"
 msgstr "Stückliste"
@@ -272,7 +275,7 @@ msgid "The plan of beams displays axes and contours of walls, axes and contours 
 msgstr "Der Balkenplan zeigt Achsen und Konturen von Wänden, Achsen und Konturen von Balken. Abstände zwischen den Achsen der Wände und zwischen den Achsen jeder Balkengruppe und der Abstand des entferntesten Balkens bis zur nächsten Wand. Das Programm gibt auch Namen von Wänden und Balken an."
 
 msgid "Find documentation, tutorials, downloads, videos, and more resources"
-msgstr "In diesem Bereich finden Sie alle notwendigen Programmdokumentalonen, Schulungsunterlagen und Videos"
+msgstr "In diesem Bereich finden Sie alle notwendigen Programmdokumentationen, Schulungsunterlagen und Videos"
 
 msgid "The fundamentals of K3-Cottage."
 msgstr "Überblick über das Programm."
@@ -293,16 +296,16 @@ msgid "Get access to the full version of the latest release of K3-Cottage softwa
 msgstr "Erhalten Sie Zugriff auf die kostenlose Vollversion. Arbeiten Sie ohne Einschränkung der Funklonalität, schätzen Sie die bequeme Arbeit im Programm."
 
 msgid "GeoS Center LLC (Nizhny Novgorod) ‑ is a Russian developer of computer aided design (CAD/CAM) software. The Center was established in June 1994 in Nizhny Novgorod and employs the best specialists in the field of 3D simulation software. GeoS Center has its head office in Nizhny Novgorod, Russia."
-msgstr "GeoS CAD Development Center LLC (Russland, Nischni Nowgorod) ist ein russischer Softwareentwickler im Bereich Computer Aided Design (CAD / CAM). Das Entwicklungsteam arbeitet seit Juni 1994 mit SoOware. Die Hauptentwicklung des Unternehmens ist ein interaklver Komplex von 3D-Modellierungsprogrammen \"K3\", auf deren Grundlage eine Reihe branchenspezifischer Anwendungen erstellt werden."
+msgstr "GeoS CAD Development Center LLC (Russland, Nischni Nowgorod) ist ein russischer Softwareentwickler im Bereich Computer Aided Design (CAD / CAM). Das Entwicklungsteam arbeitet seit Juni 1994 mit Software. Die Hauptentwicklung des Unternehmens ist ein interaktiver Komplex von 3D-Modellierungsprogrammen \"K3\", auf deren Grundlage eine Reihe branchenspezifischer Anwendungen erstellt werden."
 
 msgid "The company's main development is the K3 Interactive 3D-Simulation Program Suite, which is used as a basis for developing various industry-specific applications. K3 Systems are successfully used by over 1,500 companies in Russia and the CIS in various industries."
-msgstr "Auf dem K3-System entwickelte SoOwarelösungen werden von mehr als 1.500 Unternehmen in Russland und der Welt erfolgreich eingesetzt."
+msgstr "Auf dem K3-System entwickelte Softwarelösungen werden von mehr als 1.500 Unternehmen in Russland und der Welt erfolgreich eingesetzt."
 
 msgid "Development and supply of geometrical software"
 msgstr "Entwicklung und Lieferung von geometrischer Software"
 
 msgid "Development of software tools for creating user applications"
-msgstr "Entwicklung von SoOware-Tools zum Erstellen von benutzerdefinierten Anwendungen"
+msgstr "Entwicklung von Software-Tools zum Erstellen von benutzerdefinierten Anwendungen"
 
 msgid "Development and implementation of industry-specific user applications"
-msgstr "Entwicklung und Implemenlerung von kundenspezifischen Anwendungen, einschließlich der Industrie"
+msgstr "Entwicklung und Implementierung von kundenspezifischen Anwendungen, einschließlich der Industrie"
