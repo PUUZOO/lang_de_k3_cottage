@@ -1,7 +1,7 @@
 # Translation of Themes - K3 Cottage.de
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-04-25 13:16+0300\n"
+"PO-Revision-Date: 2019-04-25 13:23+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -85,7 +85,7 @@ msgid "Customer Projects"
 msgstr "Benutzerprojekte"
 
 msgid "SUPPORT<span class=\"c-orange\">&</span>TUTORIALS"
-msgstr "Technischer Support un"
+msgstr "Schulungsunterlagen<br> & Support"
 
 msgid "Download"
 msgstr "Herunterladen"
@@ -230,7 +230,7 @@ msgid "Documentation for manufacturing."
 msgstr "Dokumente für die Produktion."
 
 msgid "Wall elements specification sheet (table of logs) is the main manufacture document. This sheet contains highly detailed drawings of each log with all the necessary dimensions"
-msgstr "Die Spezifikation der Wandelemente ist das Hauptdokument der Fertigung. In dieser Tabelle ist für jeden Balken eine detaillierte Zeichnung mit der Anzeige aller erforderlichen Größen angegeben. Die Stämme werden nach Wänden, nach einzelne Balken oder nach Länge gruppiert und können in einer Zeile der Tabelle zusammengefasst werden. Die Spezifikation der Wandelemente ergänzt die Tabelle der Enden und Nuten."
+msgstr "Die Spezifikation der Wandelemente ist das Hauptdokument der Fertigung. In dieser Tabelle ist für jeden Balken eine detaillierte Zeichnung mit der Anzeige aller erforderlichen Größen angegeben. Die Stämme werden nach Wänden, nach einzelne Balken oder nach Länge gruppiert und können in einer Zeile der Tabelle zusammengefasst werden. Die Spezifikation der Wandelemente ergänzt die Tabelle der Enden und Nuten"
 
 msgid "Log cutting tables"
 msgstr "Baumstämme ausschneiden"
@@ -257,7 +257,7 @@ msgid "Wall charts"
 msgstr "Wandpläne"
 
 msgid "Wall charts serve as the control document both for log manufacture and for house assemblage. K3-Cottage creates individual chart for each wall with construction axes of adjoining walls; the scale of courses; names and lengths of logs; opening, column and beam height marks; and also chains of the necessary dimensions"
-msgstr "Wanddiagramme dienen als Kontrolldokument sowohl für die Herstellung als auch für die Montage. K3-Cottage erstellt für jede Wand ein individuelles Diagramm und zeigt die Konstruktionsachsen angrenzender Wände an. Der Maßstab der Reihen, die Namen und Längen der Baumstämme, die Erhebungen der Öffnungen, Pfeiler und Balken sowie die Reihenfolge der erforderlichen Größen werden festgelegt. Bei Öffnungen können Namen und Abmessungen angegeben werden."
+msgstr "Wanddiagramme dienen als Kontrolldokument sowohl für die Herstellung als auch für die Montage. K3-Cottage erstellt für jede Wand ein individuelles Diagramm und zeigt die Konstruktionsachsen angrenzender Wände an. Der Maßstab der Reihen, die Namen und Längen der Baumstämme, die Erhebungen der Öffnungen, Pfeiler und Balken sowie die Reihenfolge der erforderlichen Größen werden festgelegt. Bei Öffnungen können Namen und Abmessungen angegeben werden"
 
 msgid "Plans of courses"
 msgstr "Pläne für Reihenbalken"
