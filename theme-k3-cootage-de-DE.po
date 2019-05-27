@@ -75,6 +75,9 @@ msgstr "CNC Maschinen"
 msgid "Rendering"
 msgstr "Rendering"
 
+msgid "Attract customers with high-quality graphics & rendered pictures. Use advanced rendering to show how your customers’ houses may look like in the existing surroundings, and even how their furniture may be arranged in a new space. Take a live 3D walkthrough of the house using stereo display and 3D glasses."
+msgstr "Gewinnen Sie Kunden mit hochwertigen Grafiken und Bildern. Verwenden Sie die erweiterte Videovisualisierung, um zu zeigen, wie die Häuser Ihrer Kunden in der vorhandenen Umgebung aussehen können, und sogar, wie ihre Möbel in einem neuen Raum angeordnet werden können. Machen Sie mit einer Stereo-Anzeige und einer 3D-Brille einen 3D-Rundgang durch das Haus."
+
 msgid "Project documentation"
 msgstr "Berichte"
 
